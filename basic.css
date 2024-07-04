@@ -1,0 +1,25 @@
+ *{
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+}
+body{
+background-color: rgb(255, 244, 249);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 50px auto;
+}
+.btn{
+    background-color: rgb(10, 100, 218);
+    color: aliceblue;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+
+}
+.btn:hover{
+    background-color: rgb(106, 167, 236);
+    color: black;
+}
